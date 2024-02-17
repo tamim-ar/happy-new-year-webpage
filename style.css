@@ -1,9 +1,4 @@
 * {
-    /* max-width: 1200px;
-   
-    margin: 0 auto; */
-    
-
       font-family: 'Merriweather'; 
 }
 
@@ -79,10 +74,7 @@
     margin-top: 50px;
 
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('./resources/Vectorrr.png');
-    /*background-repeat: no-repeat;
-    background-position: center;
-    height: 600px;
-    margin-bottom: 120px; */
+
 
     background-repeat: no-repeat;
     background-size: cover;
